@@ -37,10 +37,12 @@ yarn-error.log
 testem.log
 /typings
 # Firebase
-/.firebaserc 
-/firebase.json
-/firestore.indexes.json
-/firestore.rules
+
+/.firebase
+.firebaserc 
+firebase.json
+firestore.indexes.json
+firestore.rules
 
 # System files
 .DS_Store
