@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "singular-array-387200"
+  },
+  "targets": {},
+  "etags": {
+    "singular-array-387200": {
+      "extensionInstances": {}
+    }
+  }
+}
